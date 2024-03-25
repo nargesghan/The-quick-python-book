@@ -1,4 +1,5 @@
-with open('lab_05.txt') as infile:
+temperatures=[]
+with open('D:\CS internship\step 2\Chapter5\lab_05.txt') as infile:
     for row in infile:
         temperatures.append(float(row.strip()))
 

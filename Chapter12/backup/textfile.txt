@@ -1,0 +1,49 @@
+'''How might you calculate the total size of all files ending with .txt that aren’t symlinks in
+a directory? If your first answer was using os.path, also try it with pathlib, and vice
+versa.'''
+import glob 
+import os
+found_list=glob.glob('*.txt')
+print(found_list)
+for file in found_list:
+    print("size of file ",file,'is: ',os.path.getsize(os.path.abspath(file)))'''How might you calculate the total size of all files ending with .txt that aren’t symlinks in
+a directory? If your first answer was using os.path, also try it with pathlib, and vice
+versa.'''
+import glob 
+import os
+found_list=glob.glob('*.txt')
+print(found_list)
+for file in found_list:
+    print("size of file ",file,'is: ',os.path.getsize(os.path.abspath(file)))'''How might you calculate the total size of all files ending with .txt that aren’t symlinks in
+a directory? If your first answer was using os.path, also try it with pathlib, and vice
+versa.'''
+import glob 
+import os
+found_list=glob.glob('*.txt')
+print(found_list)
+for file in found_list:
+    print("size of file ",file,'is: ',os.path.getsize(os.path.abspath(file)))'''How might you calculate the total size of all files ending with .txt that aren’t symlinks in
+a directory? If your first answer was using os.path, also try it with pathlib, and vice
+versa.'''
+import glob 
+import os
+found_list=glob.glob('*.txt')
+print(found_list)
+for file in found_list:
+    print("size of file ",file,'is: ',os.path.getsize(os.path.abspath(file)))'''How might you calculate the total size of all files ending with .txt that aren’t symlinks in
+a directory? If your first answer was using os.path, also try it with pathlib, and vice
+versa.'''
+import glob 
+import os
+found_list=glob.glob('*.txt')
+print(found_list)
+for file in found_list:
+    print("size of file ",file,'is: ',os.path.getsize(os.path.abspath(file)))'''How might you calculate the total size of all files ending with .txt that aren’t symlinks in
+a directory? If your first answer was using os.path, also try it with pathlib, and vice
+versa.'''
+import glob 
+import os
+found_list=glob.glob('*.txt')
+print(found_list)
+for file in found_list:
+    print("size of file ",file,'is: ',os.path.getsize(os.path.abspath(file)))

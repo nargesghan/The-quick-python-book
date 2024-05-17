@@ -1,0 +1,8 @@
+Hello!
+Is every thing okay?
+see youI opened this file for the second time
+
+I dodnt know how to stop this because I am not using input function but sys.stdin.read function
+
+
+

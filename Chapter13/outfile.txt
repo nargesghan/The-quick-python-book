@@ -1,0 +1,4 @@
+A first line.
+A second line.
+A line from the print function
+7
